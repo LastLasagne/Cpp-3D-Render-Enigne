@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\Arbeit\Openframeworks\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\apps\myApps\3D Rendering\src\</FILEPATH>
+      <FILENAME>GameObject.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Der Enumerationstyp "Component::ComponentType" umfasst keine Bereichseinschränkung. Geben Sie "enum class" Vorrang vor "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>GameObject::getComponent</FUNCTION>
+    <DECORATED>?getComponent@GameObject@@QAEPAVComponent@@W4ComponentType@2@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

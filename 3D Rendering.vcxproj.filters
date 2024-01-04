@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Component.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\C_Camera.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\C_Light.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\C_MeshRenderer.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\C_Transform.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\GameObject.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\MatrixMath.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\OBJManager.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Shader.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Shader_01.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Shader_02.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Shader_03.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Triangle.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Vector2.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Vector3.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\Vertex.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Component.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\C_Camera.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\C_Light.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\C_MeshRenderer.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\C_Transform.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\GameObject.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\MatrixMath.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\OBJManager.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Shader.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Shader_01.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Shader_02.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Shader_03.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Triangle.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Vector2.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Vector3.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\Vertex.h">
+			<Filter>src</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
